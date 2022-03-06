@@ -89,7 +89,7 @@ namespace ex4
 	{
 		void print()
 		{
-			cout << id << endl;
+			std::cout << id << std::endl;
 		}
 		int val;
 	};
@@ -125,7 +125,7 @@ int main()
 	{
 		void print()
 		{
-			cout << id << endl;
+			std::cout << id << std::endl;
 		}
 		int val;
 	};

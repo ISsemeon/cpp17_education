@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-	extended_ini
+	extended_ini \
+	foldingTemplateParameters
